@@ -1,0 +1,28 @@
+.home-hero{
+    color: white;
+}
+
+/* .home-container input,span{
+    padding: 5px 20px;
+    font-size: 30px;
+} */
+
+.home-container span i{
+    font-size: 30px;
+}
+
+/* .home-heading{
+    font-size: 40px;
+} */
+
+.icon-helping-section i{
+    font-size: 70px;    
+}
+
+.helping-section .card-title{
+    font-size: 25px;
+}
+
+/* .helping-section p{
+    font-size: px;
+} */

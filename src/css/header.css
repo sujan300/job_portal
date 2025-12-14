@@ -1,0 +1,51 @@
+.navbar-nav .nav-link {
+  font-size: 16px;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.form-control {
+  font-size: 16px;
+}
+
+.btn-sm {
+  font-size: 14px;
+  padding: 4px 10px;
+}
+
+
+
+.col-md-6{
+  margin-top: 30px;
+}
+
+.social-media-footer-icons h4{
+  font-size: 18px;
+}
+
+.social-media-footer-icons i{
+  font-size: 25px;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+.app{
+  flex: 1;
+}
+
+
+*:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}

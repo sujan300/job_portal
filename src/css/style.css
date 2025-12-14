@@ -1,0 +1,13 @@
+
+*{
+    border: none;
+    margin: none;
+    box-sizing: border-box;
+}
+
+
+
+.404-page-buttons a{
+    font-weight: 800 !important;
+    color: red !important;
+}
