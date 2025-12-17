@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "job_001",
+    "title": "Data Analyst",
+    "company": {
+      "name": "FutureStack Pvt. Ltd.",
+      "logo": "logo_url_001"
+    },
+    "location": "Hetauda",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 23186,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_002",
+    "title": "UI/UX Designer",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_002"
+    },
+    "location": "Lalitpur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 49533,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_003",
+    "title": "Product Manager",
+    "company": {
+      "name": "FutureStack Pvt. Ltd.",
+      "logo": "logo_url_003"
+    },
+    "location": "Janakpur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 40474,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_004",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "PixelWorks Pvt. Ltd.",
+      "logo": "logo_url_004"
+    },
+    "location": "Kathmandu",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 43397,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_005",
+    "title": "QA Engineer",
+    "company": {
+      "name": "Visionary Tech Pvt. Ltd.",
+      "logo": "logo_url_005"
+    },
+    "location": "Janakpur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 26692,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_006",
+    "title": "Backend Developer",
+    "company": {
+      "name": "CloudMatrix Pvt. Ltd.",
+      "logo": "logo_url_006"
+    },
+    "location": "Janakpur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 50727,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_007",
+    "title": "Backend Developer",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_007"
+    },
+    "location": "Kathmandu",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 18578,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_008",
+    "title": "Backend Developer",
+    "company": {
+      "name": "CloudMatrix Pvt. Ltd.",
+      "logo": "logo_url_008"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 25172,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_009",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "WebCrafters Pvt. Ltd.",
+      "logo": "logo_url_009"
+    },
+    "location": "Dharan",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 41901,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_010",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "TechNova Solutions Pvt. Ltd.",
+      "logo": "logo_url_010"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 33922,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_011",
+    "title": "Data Analyst",
+    "company": {
+      "name": "NexaSoft Pvt. Ltd.",
+      "logo": "logo_url_011"
+    },
+    "location": "Kathmandu",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 28364,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_012",
+    "title": "UI/UX Designer",
+    "company": {
+      "name": "TechNova Solutions Pvt. Ltd.",
+      "logo": "logo_url_012"
+    },
+    "location": "Butwal",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 31254,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_013",
+    "title": "Product Manager",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_013"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 20163,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_014",
+    "title": "Product Manager",
+    "company": {
+      "name": "TechNova Solutions Pvt. Ltd.",
+      "logo": "logo_url_014"
+    },
+    "location": "Hetauda",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 18380,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_015",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_015"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 31447,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_016",
+    "title": "Backend Developer",
+    "company": {
+      "name": "Alpha Solutions Pvt. Ltd.",
+      "logo": "logo_url_016"
+    },
+    "location": "Janakpur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 43841,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_017",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_017"
+    },
+    "location": "Kathmandu",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 22579,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_018",
+    "title": "Data Analyst",
+    "company": {
+      "name": "NextGen Labs Pvt. Ltd.",
+      "logo": "logo_url_018"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 22138,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_019",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_019"
+    },
+    "location": "Janakpur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 27704,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_020",
+    "title": "Frontend Developer",
+    "company": {
+      "name": "InnovateX Pvt. Ltd.",
+      "logo": "logo_url_020"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 12503,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_021",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "NextGen Labs Pvt. Ltd.",
+      "logo": "logo_url_021"
+    },
+    "location": "Lalitpur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 59526,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_022",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "BetaSoft Pvt. Ltd.",
+      "logo": "logo_url_022"
+    },
+    "location": "Butwal",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 59513,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_023",
+    "title": "QA Engineer",
+    "company": {
+      "name": "DataPulse Pvt. Ltd.",
+      "logo": "logo_url_023"
+    },
+    "location": "Pokhara",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 50033,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_024",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Alpha Solutions Pvt. Ltd.",
+      "logo": "logo_url_024"
+    },
+    "location": "Dharan",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 51100,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_025",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "WebCrafters Pvt. Ltd.",
+      "logo": "logo_url_025"
+    },
+    "location": "Butwal",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 45344,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_026",
+    "title": "Frontend Developer",
+    "company": {
+      "name": "DataPulse Pvt. Ltd.",
+      "logo": "logo_url_026"
+    },
+    "location": "Biratnagar",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 17161,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_027",
+    "title": "Product Manager",
+    "company": {
+      "name": "BetaSoft Pvt. Ltd.",
+      "logo": "logo_url_027"
+    },
+    "location": "Lalitpur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 18622,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_028",
+    "title": "Backend Developer",
+    "company": {
+      "name": "InnovateX Pvt. Ltd.",
+      "logo": "logo_url_028"
+    },
+    "location": "Hetauda",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 18438,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_029",
+    "title": "Frontend Developer",
+    "company": {
+      "name": "CloudMatrix Pvt. Ltd.",
+      "logo": "logo_url_029"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 26052,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_030",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "ByteForge Pvt. Ltd.",
+      "logo": "logo_url_030"
+    },
+    "location": "Butwal",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 12156,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_031",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "CodeSphere Pvt. Ltd.",
+      "logo": "logo_url_031"
+    },
+    "location": "Pokhara",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 44728,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_032",
+    "title": "Frontend Developer",
+    "company": {
+      "name": "SoftEra Pvt. Ltd.",
+      "logo": "logo_url_032"
+    },
+    "location": "Dharan",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 44689,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_033",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "CodeWave Pvt. Ltd.",
+      "logo": "logo_url_033"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 15900,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_034",
+    "title": "QA Engineer",
+    "company": {
+      "name": "TechNova Solutions Pvt. Ltd.",
+      "logo": "logo_url_034"
+    },
+    "location": "Biratnagar",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 35462,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_035",
+    "title": "Backend Developer",
+    "company": {
+      "name": "PixelWorks Pvt. Ltd.",
+      "logo": "logo_url_035"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 29776,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_036",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_036"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 12448,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_037",
+    "title": "Product Manager",
+    "company": {
+      "name": "SoftEra Pvt. Ltd.",
+      "logo": "logo_url_037"
+    },
+    "location": "Janakpur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 26753,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_038",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "NexaSoft Pvt. Ltd.",
+      "logo": "logo_url_038"
+    },
+    "location": "Hetauda",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 20598,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_039",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "AppCrafters Pvt. Ltd.",
+      "logo": "logo_url_039"
+    },
+    "location": "Dharan",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 20592,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_040",
+    "title": "Frontend Developer",
+    "company": {
+      "name": "PixelWorks Pvt. Ltd.",
+      "logo": "logo_url_040"
+    },
+    "location": "Dharan",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 22202,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_041",
+    "title": "Frontend Developer",
+    "company": {
+      "name": "DataPulse Pvt. Ltd.",
+      "logo": "logo_url_041"
+    },
+    "location": "Dharan",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 18454,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_042",
+    "title": "Frontend Developer",
+    "company": {
+      "name": "Visionary Tech Pvt. Ltd.",
+      "logo": "logo_url_042"
+    },
+    "location": "Dharan",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 36753,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_043",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "CodeSphere Pvt. Ltd.",
+      "logo": "logo_url_043"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 16359,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_044",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Alpha Solutions Pvt. Ltd.",
+      "logo": "logo_url_044"
+    },
+    "location": "Dharan",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 34649,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_045",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "Skyline Tech Pvt. Ltd.",
+      "logo": "logo_url_045"
+    },
+    "location": "Butwal",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 21393,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_046",
+    "title": "QA Engineer",
+    "company": {
+      "name": "SoftEra Pvt. Ltd.",
+      "logo": "logo_url_046"
+    },
+    "location": "Butwal",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 32477,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_047",
+    "title": "Data Analyst",
+    "company": {
+      "name": "NexaSoft Pvt. Ltd.",
+      "logo": "logo_url_047"
+    },
+    "location": "Dharan",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 40773,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_048",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "Visionary Tech Pvt. Ltd.",
+      "logo": "logo_url_048"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 38848,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_049",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "CodeWave Pvt. Ltd.",
+      "logo": "logo_url_049"
+    },
+    "location": "Biratnagar",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 38667,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_050",
+    "title": "UI/UX Designer",
+    "company": {
+      "name": "Visionary Tech Pvt. Ltd.",
+      "logo": "logo_url_050"
+    },
+    "location": "Butwal",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 30395,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_051",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "NexaSoft Pvt. Ltd.",
+      "logo": "logo_url_051"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 33529,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_052",
+    "title": "QA Engineer",
+    "company": {
+      "name": "CodeWave Pvt. Ltd.",
+      "logo": "logo_url_052"
+    },
+    "location": "Pokhara",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 14900,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_053",
+    "title": "UI/UX Designer",
+    "company": {
+      "name": "Skyline Tech Pvt. Ltd.",
+      "logo": "logo_url_053"
+    },
+    "location": "Hetauda",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 14535,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_054",
+    "title": "Data Analyst",
+    "company": {
+      "name": "TechNova Solutions Pvt. Ltd.",
+      "logo": "logo_url_054"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 35194,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_055",
+    "title": "Backend Developer",
+    "company": {
+      "name": "AppCrafters Pvt. Ltd.",
+      "logo": "logo_url_055"
+    },
+    "location": "Pokhara",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 15810,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_056",
+    "title": "Data Analyst",
+    "company": {
+      "name": "Quantum Labs Pvt. Ltd.",
+      "logo": "logo_url_056"
+    },
+    "location": "Biratnagar",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 16216,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_057",
+    "title": "Data Analyst",
+    "company": {
+      "name": "CloudMatrix Pvt. Ltd.",
+      "logo": "logo_url_057"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 32346,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_058",
+    "title": "QA Engineer",
+    "company": {
+      "name": "TechNova Solutions Pvt. Ltd.",
+      "logo": "logo_url_058"
+    },
+    "location": "Pokhara",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 26932,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_059",
+    "title": "QA Engineer",
+    "company": {
+      "name": "CodeSphere Pvt. Ltd.",
+      "logo": "logo_url_059"
+    },
+    "location": "Pokhara",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 19410,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_060",
+    "title": "Product Manager",
+    "company": {
+      "name": "CloudMatrix Pvt. Ltd.",
+      "logo": "logo_url_060"
+    },
+    "location": "Hetauda",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 17557,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_061",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "SoftEra Pvt. Ltd.",
+      "logo": "logo_url_061"
+    },
+    "location": "Lalitpur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 38155,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_062",
+    "title": "Data Analyst",
+    "company": {
+      "name": "CodeSphere Pvt. Ltd.",
+      "logo": "logo_url_062"
+    },
+    "location": "Dharan",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 28777,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_063",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "DataPulse Pvt. Ltd.",
+      "logo": "logo_url_063"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 27763,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_064",
+    "title": "Data Analyst",
+    "company": {
+      "name": "DataPulse Pvt. Ltd.",
+      "logo": "logo_url_064"
+    },
+    "location": "Butwal",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 22083,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_065",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_065"
+    },
+    "location": "Butwal",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 16254,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_066",
+    "title": "UI/UX Designer",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_066"
+    },
+    "location": "Biratnagar",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 46860,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_067",
+    "title": "Frontend Developer",
+    "company": {
+      "name": "WebCrafters Pvt. Ltd.",
+      "logo": "logo_url_067"
+    },
+    "location": "Hetauda",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 30021,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_068",
+    "title": "Data Analyst",
+    "company": {
+      "name": "CodeWave Pvt. Ltd.",
+      "logo": "logo_url_068"
+    },
+    "location": "Hetauda",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 15399,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_069",
+    "title": "UI/UX Designer",
+    "company": {
+      "name": "PixelWorks Pvt. Ltd.",
+      "logo": "logo_url_069"
+    },
+    "location": "Hetauda",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 17904,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_070",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "InnovateX Pvt. Ltd.",
+      "logo": "logo_url_070"
+    },
+    "location": "Pokhara",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 16736,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_071",
+    "title": "Backend Developer",
+    "company": {
+      "name": "FutureStack Pvt. Ltd.",
+      "logo": "logo_url_071"
+    },
+    "location": "Butwal",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 47186,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_072",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "CodeSphere Pvt. Ltd.",
+      "logo": "logo_url_072"
+    },
+    "location": "Janakpur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 18059,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_073",
+    "title": "Backend Developer",
+    "company": {
+      "name": "WebCrafters Pvt. Ltd.",
+      "logo": "logo_url_073"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 29281,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_074",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "Alpha Solutions Pvt. Ltd.",
+      "logo": "logo_url_074"
+    },
+    "location": "Pokhara",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 29117,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_075",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "TechNova Solutions Pvt. Ltd.",
+      "logo": "logo_url_075"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 36136,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_076",
+    "title": "Backend Developer",
+    "company": {
+      "name": "CodeWave Pvt. Ltd.",
+      "logo": "logo_url_076"
+    },
+    "location": "Lalitpur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 41412,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_077",
+    "title": "UI/UX Designer",
+    "company": {
+      "name": "TechNova Solutions Pvt. Ltd.",
+      "logo": "logo_url_077"
+    },
+    "location": "Lalitpur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 20650,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_078",
+    "title": "QA Engineer",
+    "company": {
+      "name": "CloudMatrix Pvt. Ltd.",
+      "logo": "logo_url_078"
+    },
+    "location": "Pokhara",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 22464,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_079",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "NextGen Labs Pvt. Ltd.",
+      "logo": "logo_url_079"
+    },
+    "location": "Pokhara",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 34396,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_080",
+    "title": "QA Engineer",
+    "company": {
+      "name": "PixelWorks Pvt. Ltd.",
+      "logo": "logo_url_080"
+    },
+    "location": "Janakpur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 15970,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_081",
+    "title": "Mobile App Developer",
+    "company": {
+      "name": "CodeSphere Pvt. Ltd.",
+      "logo": "logo_url_081"
+    },
+    "location": "Hetauda",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 48941,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_082",
+    "title": "UI/UX Designer",
+    "company": {
+      "name": "CodeWave Pvt. Ltd.",
+      "logo": "logo_url_082"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 23897,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_083",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "TechNova Solutions Pvt. Ltd.",
+      "logo": "logo_url_083"
+    },
+    "location": "Butwal",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 44808,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_084",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "ByteForge Pvt. Ltd.",
+      "logo": "logo_url_084"
+    },
+    "location": "Nepalgunj",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 41288,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_085",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "NexaSoft Pvt. Ltd.",
+      "logo": "logo_url_085"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 57458,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_086",
+    "title": "QA Engineer",
+    "company": {
+      "name": "FutureStack Pvt. Ltd.",
+      "logo": "logo_url_086"
+    },
+    "location": "Hetauda",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 32415,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_087",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "CodeWave Pvt. Ltd.",
+      "logo": "logo_url_087"
+    },
+    "location": "Pokhara",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 19059,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_088",
+    "title": "Backend Developer",
+    "company": {
+      "name": "Visionary Tech Pvt. Ltd.",
+      "logo": "logo_url_088"
+    },
+    "location": "Janakpur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 22657,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_089",
+    "title": "Product Manager",
+    "company": {
+      "name": "EdgeWorks Pvt. Ltd.",
+      "logo": "logo_url_089"
+    },
+    "location": "Butwal",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 42273,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_090",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "Alpha Solutions Pvt. Ltd.",
+      "logo": "logo_url_090"
+    },
+    "location": "Butwal",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 21790,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_091",
+    "title": "Full Stack Developer",
+    "company": {
+      "name": "CodeSphere Pvt. Ltd.",
+      "logo": "logo_url_091"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 23108,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_092",
+    "title": "MERN Stack Developer",
+    "company": {
+      "name": "ByteForge Pvt. Ltd.",
+      "logo": "logo_url_092"
+    },
+    "location": "Pokhara",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 15322,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_093",
+    "title": "Frontend Developer",
+    "company": {
+      "name": "BetaSoft Pvt. Ltd.",
+      "logo": "logo_url_093"
+    },
+    "location": "Kathmandu",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 24061,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_094",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "FutureStack Pvt. Ltd.",
+      "logo": "logo_url_094"
+    },
+    "location": "Pokhara",
+    "employmentType": "Part Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 32530,
+      "period": "monthly"
+    },
+    "experienceRequired": "1+ Year",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_095",
+    "title": "Data Analyst",
+    "company": {
+      "name": "AppCrafters Pvt. Ltd.",
+      "logo": "logo_url_095"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 30392,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_096",
+    "title": "QA Engineer",
+    "company": {
+      "name": "DataPulse Pvt. Ltd.",
+      "logo": "logo_url_096"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 29894,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_097",
+    "title": "DevOps Engineer",
+    "company": {
+      "name": "CodeWave Pvt. Ltd.",
+      "logo": "logo_url_097"
+    },
+    "location": "Janakpur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 20456,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_098",
+    "title": "QA Engineer",
+    "company": {
+      "name": "NextGen Labs Pvt. Ltd.",
+      "logo": "logo_url_098"
+    },
+    "location": "Janakpur",
+    "employmentType": "Full Time",
+    "salary": {
+      "currency": "NPR",
+      "amount": 36681,
+      "period": "monthly"
+    },
+    "experienceRequired": "5+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_099",
+    "title": "QA Engineer",
+    "company": {
+      "name": "Skyline Tech Pvt. Ltd.",
+      "logo": "logo_url_099"
+    },
+    "location": "Bhaktapur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 36278,
+      "period": "monthly"
+    },
+    "experienceRequired": "2+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  },
+  {
+    "id": "job_100",
+    "title": "Backend Developer",
+    "company": {
+      "name": "NextGen Labs Pvt. Ltd.",
+      "logo": "logo_url_100"
+    },
+    "location": "Janakpur",
+    "employmentType": "Contract",
+    "salary": {
+      "currency": "NPR",
+      "amount": 27605,
+      "period": "monthly"
+    },
+    "experienceRequired": "3+ Years",
+    "country": "Nepal",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, provident. Id nobis temporibus quos praesentium minima! Delectus reprehenderit excepturi rem nemo laboriosam et libero ducimus fugit, animi deleniti amet hic."
+  }
+]

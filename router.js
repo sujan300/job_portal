@@ -6,6 +6,7 @@ import JobAndIntern from "./src/views/job_and_inter";
 import JobDescription from "./src/views/job_description";
 import LoginPage from "./src/views/login";
 import SignupPage from "./src/views/signup";
+
 console.log("Routing.js Running Now ......");
 
 const routes = {
@@ -18,12 +19,14 @@ const routes = {
   "/job-description":JobDescription,
 };
 
-function render(urlPath) {
-  console.log("urlPath = ",+routes[urlPath]);
+async function render(urlPath) {
   const appDiv = document.querySelector(".app");
-  const userHitPathUrl = routes[urlPath];
-  console.log("type of url routes is ", typeof userHitPathUrl);
-  const page = routes[urlPath];
+  let page = "";
+  if("/job-description"===urlPath){
+    page = await routes[urlPath];
+  }else{
+    page = routes[urlPath];
+  }
   if (page) {
     console.log("page ",page);
     appDiv.innerHTML = page();

@@ -1,4 +1,7 @@
-const JobAndIntern = () => {
+import JobShowing from "../api/jobShowing";
+const JobAndIntern = async () => {
+  const jobs = await JobShowing();
+  console.log("jobs inside job and intern function ==>>",jobs);
   return `
     <div class="container mt-5">
 
